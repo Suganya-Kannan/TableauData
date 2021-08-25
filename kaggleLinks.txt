@@ -1,0 +1,2 @@
+https://www.kaggle.com/jcraggy/marvel-vs-dc-imdb-rotten-tomatoes
+https://www.kaggle.com/hetulmehta/marvel-vs-dc-imdb-dataset
